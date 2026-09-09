@@ -1,0 +1,12 @@
+{
+  "name": "neon-breaker",
+  "version": "1.0.0",
+  "description": "Jeu d'arcade casse-briques au style neon",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

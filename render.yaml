@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: neon-breaker
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
